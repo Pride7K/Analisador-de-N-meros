@@ -1,0 +1,43 @@
+html,body
+{
+    background-color: yellow;
+    width: 100%;
+    height: 100%;
+}
+*
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer,header
+{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    height: 10%;
+    padding-top: 3%;
+}
+#select1
+{
+    height: 70%;
+    width: 50%;
+}
+#adicionar,#finalizar
+{
+    width: 30%;
+}
+section
+{
+    width: 30%;
+    height: 55%;
+    background-color:white;
+    margin: auto;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.295);
+}
+p
+{
+    padding: 3%;
+}
